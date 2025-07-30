@@ -20,7 +20,11 @@ A comprehensive web-based travel booking platform developed as my diploma capsto
 ## 📸 Screenshots
 
 ### Homepage with Destination Carousel
-![Travel Destinations](assets/images/amritsar.jpg)
+![agra](https://github.com/user-attachments/assets/77608a04-6b12-465c-bc0e-aa57ae907d32)
+![goa](https://github.com/user-attachments/assets/feeffc08-c1f5-41d8-beeb-8abe58930e11)
+![chennai](https://github.com/user-attachments/assets/0e5e8b86-747e-4589-a242-be408ec41a72)
+![amritsar](https://github.com/user-attachments/assets/e70dd8e3-b79b-440d-8b7b-d82bcb13b3eb)
+
 
 ### Featured Destinations
 - **Golden Temple, Amritsar** - Spiritual journey
