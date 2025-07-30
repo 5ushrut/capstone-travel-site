@@ -18,12 +18,12 @@ A comprehensive web-based travel booking platform developed as my diploma capsto
 - **Server**: Apache (XAMPP/LAMP)
 
 ## 📸 Screenshots
-
-### Homepage with Destination Carousel
-![agra](https://github.com/user-attachments/assets/77608a04-6b12-465c-bc0e-aa57ae907d32)
-![goa](https://github.com/user-attachments/assets/feeffc08-c1f5-41d8-beeb-8abe58930e11)
-![chennai](https://github.com/user-attachments/assets/0e5e8b86-747e-4589-a242-be408ec41a72)
-![amritsar](https://github.com/user-attachments/assets/e70dd8e3-b79b-440d-8b7b-d82bcb13b3eb)
+<img width="1304" height="968" alt="Travel site home page" src="https://github.com/user-attachments/assets/22ed163d-562c-44d8-b98e-fa364d45e3d5" />
+<img width="1307" height="968" alt="Travel site homepage 2" src="https://github.com/user-attachments/assets/a2822964-219e-4325-8b22-90c3f5175d5c" />
+<img width="1306" height="967" alt="Travel site booking" src="https://github.com/user-attachments/assets/ead7368d-12d3-491e-b03f-cf926b387da4" />
+<img width="1306" height="968" alt="Travel site admin dashboard" src="https://github.com/user-attachments/assets/7cbbf33c-a8c3-4bb5-a88c-b0b595c40941" />
+<img width="1305" height="967" alt="Travel site report and analytics" src="https://github.com/user-attachments/assets/0ca7157e-a92b-4d24-a736-34eb8e2ef8af" />
+<img width="1305" height="968" alt="Travel site contact" src="https://github.com/user-attachments/assets/56e5f56f-cbaf-4142-af41-1e2f3865830d" />
 
 
 ### Featured Destinations
